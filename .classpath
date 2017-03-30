@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="tmsapp/src"/>
+	<classpathentry kind="src" path="tmsapp/WebContent/js/jQuery/test"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/core-renderer.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/displaytag-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/dwr-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/jsapi-1.12_r8.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/jstl-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry exported="true" kind="lib" path="tmsapp/WebContent/WEB-INF/lib/taglibs-datetime.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_73"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Teja/Downloads/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="output" path="tmsapp/build/classes"/>
+</classpath>
